@@ -24,3 +24,38 @@ const func=function(){  //this is the definition of fuction in JS << typeof this
 console.log("hello world")}
 
 //non primitive datatype type of is function but functions return type is objectfunction
+
+
+// ******************************************************************************************
+
+// thereb are two mainy 2 type of memory 
+// 1 stack (primitive)
+// 2 heap (non primitive)
+
+/*STACK TYPE*/
+let my="hitesh"
+let another= my
+another = "chai"
+console.log(my);     // hitesh
+console.log(another); // chai    becAUSE IT IS COPY ONLY not original
+
+/*HEAP*/
+let useone{
+    email="har@gmail.com",
+     upi = "har@ybl"
+}
+let user2 = userone
+user2.email ="hitesh@gmail.com"
+
+console.log(userone.email); //hitesh@gmail.com
+console.log(user2.email);    //hitesh@gmail.com  << it is reference typr means original
+
+
+
+
+
+
+
+
+
+
