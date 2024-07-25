@@ -22,3 +22,28 @@ let hell=33
 let stringnum = String(hell)
 console.log(stringnum);
 console.log(typeof stringnum);
+
+
+// **********************************8operations**********************************************************
+
+let value7 = 3
+let negvalue = -value7
+console.log(negvalue);
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/2);
+console.log(2%2);
+console.log(2**3);
+// complex prob
+console.log("1"+2);//12
+console.log(1+"2");//12
+console.log("1" + 2 + 2);  //122
+console.log(1+2+"2");  //32
+console.log(2+2);
+console.log(2+2);
+
+let gamecounter=100
+gamecounter++;
+++gamecounter;
+console.log(gamecounter);
