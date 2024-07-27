@@ -3,7 +3,7 @@
 // objects literals below  it basically have key or values
 const mySym =Symbol('key1')
 const jsuser={
-    name: "hitesh",
+    name: "harshit",
     age:18,
     location: "jaipur",
     isloggedin:false,
