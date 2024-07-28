@@ -65,11 +65,18 @@ const course ={
     price:"999",
     courseinstructor:"harsh"
 }
-// 
+// course.courseinstructor
 
+const {courseinstructor} = course    //you can also rename it as>>>>>>>> (courseinstructor: instruct )
+console.log(courseinstructor);
 
-
-
+// JSON
+/*
+{
+    "name":"harshit",            //this is correcet but showng aise hi wrong
+    "class":"btech"
+}
+*/
 
 
 
