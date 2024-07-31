@@ -1,7 +1,7 @@
 // for of loops is given below:-
 
 // ["", "", ""]
-// [{}, {}, {}]
+// [{}, {}, {}]              >>this will have a use in five basics.js file
 // 1
 const arr = [1, 2, 3, 4, 5]
 
