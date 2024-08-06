@@ -1,5 +1,5 @@
 const myObject = {
-    js: 'javascript',       //her we learn about iteration in objects
+    js: 'javascript',       //here we learn about iteration in objects
     cpp: 'C++',
     rb: "ruby",
     swift: "swift by apple"
