@@ -1,9 +1,20 @@
 # JAVASCRIPT
 90 DAYS CHALLENGE FOR JAVASCRIPT
+This repository represents my dedicated 90‑day challenge to master JavaScript. It documents daily practice, hands‑on exercises, and learning progress, laying a strong foundation for the MERN stack journey.
 
- Learning Repository
+## Structure
 
-This repository is a complete step-by-step journey through JavaScript, designed to cover everything from basic concepts to advanced programming topics. It is structured in a progressive format, making it easier for learners to build their knowledge incrementally through practical examples and exercises.
+- Organized by day or topic for ease of navigation  
+- Includes progressively complex topics—from basics to advanced concepts  
+- Emphasis on consistency and depth to reinforce understanding
+
+## Learning Objectives
+
+- Build proficiency in JavaScript fundamentals  
+- Understand deeper concepts like closures, asynchronous patterns, and DOM manipulation  
+- Create a reliable foundation before moving to full-stack development
+
+## Project Layout
 
 ## Repository Overview
 
@@ -27,11 +38,4 @@ This project is divided into several folders. Each folder focuses on a specific 
 | `11_classesandoopsjs/`     | Object-Oriented Programming concepts including classes, constructors, objects, inheritance, etc. |
 
 ---
-
-## How to Use This Repository
-
-### For Node-based JavaScript files:
-To run any `.js` file from terminal:
-
-```bash
-node filename.js
+--By Harshit--
